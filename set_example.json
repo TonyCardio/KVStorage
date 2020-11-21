@@ -1,0 +1,11 @@
+{
+  "son": {
+    "name": "Bart",
+    "surname": "Simpson"
+  },
+  "father": {
+    "name": "Homer",
+    "surname": "Simpson",
+    "wife": "Marge"
+  }
+}
