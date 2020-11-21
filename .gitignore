@@ -1,0 +1,6 @@
+/venv/
+/.idea/
+/data/
+/test_worker1/
+/test_worker2/
+/api-key.txt
