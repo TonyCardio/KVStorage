@@ -1,0 +1,6 @@
+{
+  "cluster_node_host": "127.0.0.1",
+  "cluster_node_port": 3031,
+  "debug": true,
+  "with_checker": true
+}

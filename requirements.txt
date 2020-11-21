@@ -1,0 +1,7 @@
+sanic
+aioconsole
+requests_async
+aiounittest
+pytest-asyncio
+requests
+PyQt5
