@@ -34,7 +34,9 @@ class NodeInfo:
 
     @classmethod
     def add_cluster_urls(cls, urls: list):
-        cls.cluster_nodes.update(urls)
+        for url in urls:
+            if url != cls.self_url:
+                cls.cluster_nodes.add(url)
 
     @classmethod
     def init_new_keys(cls, token, db_name):
